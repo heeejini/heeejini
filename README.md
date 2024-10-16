@@ -5,7 +5,11 @@
 <br/>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{heeejini}"/>
+<img
+  src="https://render.gitanimals.org/farms/heeejini"
+  width="800"
+  height="250"
+/>
 </a>
 <!--
 **heeejini/heeejini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
