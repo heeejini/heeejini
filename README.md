@@ -1,7 +1,7 @@
 ## Heejin Jang👩🏻‍💻
  
-<br/>[![Solved.ac nigihee](http://mazassumnida.wtf/api/mini/generate_badge?boj=nigihee)](https://solved.ac/nigihee)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjnigihee%2Fhit-counter)](https://hits.seeyoufarm.com)   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=nigihee)](https://velog.io/@nigihee)
+<br/>[![Solved.ac nigihee](http://mazassumnida.wtf/api/mini/generate_badge?boj=nigihee)](https://solved.ac/nigihee) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=nigihee)](https://velog.io/@nigihee)
 <br/>
 
 <a href="https://github.com/devxb/gitanimals">
